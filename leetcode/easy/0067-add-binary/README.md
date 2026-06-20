@@ -35,9 +35,9 @@ Output: "10101"
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms  
-**Memory:** 7.8 MB  
-**Submitted:** 2026-06-20T17:43:39.196Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 9.1 MB (beats 34.25%)  
+**Submitted:** 2026-06-20T17:43:44.822Z  
 
 ```cpp
 class Solution {
