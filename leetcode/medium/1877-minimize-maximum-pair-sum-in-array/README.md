@@ -49,9 +49,9 @@ The maximum pair sum is max(3+5, 4+4, 6+2) = max(8, 8, 8) = 8.
 ## Solution
 
 **Language:** C++  
-**Runtime:** 171 ms (beats 59.33%)  
-**Memory:** 99.9 MB (beats 64.41%)  
-**Submitted:** 2026-06-20T17:39:54.769Z  
+**Runtime:** 0 ms  
+**Memory:** 7.9 MB  
+**Submitted:** 2026-06-20T17:40:06.421Z  
 
 ```cpp
 class Solution {
