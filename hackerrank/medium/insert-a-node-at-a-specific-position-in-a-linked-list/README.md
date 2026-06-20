@@ -51,30 +51,30 @@ The last line contains an integer $position$.
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-06-20T17:27:38.746Z  
+**Submitted:** 2026-06-20T17:36:33.390Z  
 
 ```cpp
+ *
+ */
+ *     int data;
+ *     SinglyLinkedListNode* next;
+ * };
+ *
+ * SinglyLinkedListNode {
 
-    (data);
-    // insert at head
-    if (position == 0) {
-        newNode->next = llist;
-        return newNode;
-    }
-
-    SinglyLinkedListNode* curr = llist;
-
-    // move to node before insertion point
-    for (int i = 0; i < position - 1; i++) {
-        curr = curr->next;
-    }
-
-    // insert
-    newNode->next = curr->next;
-    curr->next = newNode;
-
-    return llist;
-}
+/*
+ * For your reference:
+ *  3. INTEGER position
+ */
+ * The function accepts following parameters:
+ *  1. INTEGER_SINGLY_LINKED_LIST llist
+ *  2. INTEGER data
+ * The function is expected to return an 
+ INTEGER_SINGLY_LINKED_LIST.
+/*
+ * Complete the 'insertNodeAtPosition' function below.
+ *
+#include <bits/stdc++.h>
 
 ```
 
