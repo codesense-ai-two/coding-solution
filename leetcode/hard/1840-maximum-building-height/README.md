@@ -62,9 +62,9 @@ We can build the buildings with heights [0,1,2,3,3,4,4,5,4,3], and the tallest b
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms  
-**Memory:** 8.4 MB  
-**Submitted:** 2026-06-20T16:59:34.428Z  
+**Runtime:** 53 ms (beats 72.22%)  
+**Memory:** 106.8 MB (beats 38.89%)  
+**Submitted:** 2026-06-20T16:59:41.810Z  
 
 ```cpp
 class Solution {
