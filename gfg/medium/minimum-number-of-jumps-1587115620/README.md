@@ -45,7 +45,7 @@ Explanation: We cannot go anywhere from the 1st element.
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-06-20T17:36:32.173Z  
+**Submitted:** 2026-06-20T17:53:12.489Z  
 
 ```cpp
 class Solution {
