@@ -48,9 +48,9 @@ The array `nums` is already sorted.
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms  
-**Memory:** 8.2 MB  
-**Submitted:** 2026-06-20T17:00:42.700Z  
+**Runtime:** 4 ms (beats 21.41%)  
+**Memory:** 26.6 MB (beats 59.40%)  
+**Submitted:** 2026-06-20T17:00:48.261Z  
 
 ```cpp
 class Solution {
