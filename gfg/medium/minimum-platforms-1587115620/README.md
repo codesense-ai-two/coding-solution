@@ -38,7 +38,7 @@ Explanation: All 3 trains have to be there from 11:00 to 11:30
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-06-20T17:36:31.224Z  
+**Submitted:** 2026-06-20T17:53:13.115Z  
 
 ```cpp
 class Solution {
